@@ -1,4 +1,13 @@
 # Changelog za Pandoc i Markdown
+- [v0.31] - 5. studenoga 2025.
+  - Napravio sam ključnu konverziju .md u .html
+  - Napravio sam ključnu konverziju .md u .pdf
+  - Napravio sam ključnu konverziju .md u .docx
+- [v0.3] - 5. studenoga 2025.
+  - Dodao sam liste u markdown
+  - Dodao sam tablice u markdown
+  - Napravio sam folder static u kojem se nalazi Tux.png
+  - Napravio sam poveznicu na vanjski izvor
 - [v0.2] - 2. studenoga 2025.
   - bla bla
 - [0.1] - 30. listopada 2025.
