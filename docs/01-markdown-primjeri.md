@@ -34,11 +34,3 @@ Ako želim koristii naslovne razine, potrebno je unijeti sljedećuz sintaksu
 
 ### Vanjska poveznica
 [Nogomet](https://hr.wikipedia.org/wiki/Nogomet)
-
-## Pandoc
-
-### Konverzija iz .md u .html format
-
-```sh
-pandoc MANUAL.txt -o example1.html
-```
