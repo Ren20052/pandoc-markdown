@@ -29,7 +29,11 @@ Ako želim koristii naslovne razine, potrebno je unijeti sljedećuz sintaksu
 | Zec     | 1-5    | Biljojedi   |
 | Rakun   | 2-3    | Omnivor     |
 
+### Slika
+![Tux](static/Tux.png)
 
+### Vanjska poveznica
+[Nogomet](https://hr.wikipedia.org/wiki/Nogomet)
 
 ## Pandoc
 
